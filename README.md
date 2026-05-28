@@ -30,11 +30,8 @@ The system uses a multi-agent architecture with Google Gemini integration to
 * Computer Vision
 * COCO Dataset Format
 
-## Example Usage
 
-```bash
-python pipeline.py --query "person,guitar" --count 5
-```
+
 
 ## Project Goal
 
